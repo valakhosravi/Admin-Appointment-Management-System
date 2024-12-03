@@ -88,7 +88,7 @@ export function NewClientDialog({ onClientAdded }: NewClientDialogProps) {
         <DialogHeader>
           <DialogTitle>Add New Client</DialogTitle>
           <DialogDescription>
-            Enter the client's details below to add them to your database.
+            Enter the client&apos;s details below to add them to your database.
           </DialogDescription>
         </DialogHeader>
         <Form {...form}>
